@@ -35,7 +35,7 @@ The Supermarket Sales Dashboard aims to provide a comprehensive understanding of
    - I cleaned the data using Python libraries like **pandas** and **numpy**. This involved transforming columns such as product IDs, categories, items, and prices. Most of the data is now not only clean but also newly generated or modified.
 
 3. **Database Creation**:
-   - After cleaning the data, I set up a **PostgreSQL** database server locally. Using this setup, I created a relational database structure (as illustrated in the diagram below).
+   - After cleaning the data, I set up a **PostgreSQL** database server locally. Using this setup, I created a relational database structure.
    - I then queried the data from the database, obtaining the necessary information to create visuals that would help managers, stockholders, and other decision-makers.
 
 4. **Dashboard Development**:
