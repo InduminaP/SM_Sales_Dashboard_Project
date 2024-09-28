@@ -1,0 +1,43 @@
+Product ID,Item,Category ID,Product Category,Price Per Unit
+7392038,Plastic Chair,1,Furniture,25
+2456879,Wooden Table,1,Furniture,150
+8523094,Sofa,1,Furniture,300
+9234857,Office Desk,1,Furniture,120
+4395762,Bookshelf,1,Furniture,70
+1039847,Wardrobe,1,Furniture,200
+5487923,Bed,1,Furniture,400
+8472391,Dining Table,1,Furniture,250
+2389437,Recliner,1,Furniture,180
+7563420,Stool,1,Furniture,35
+6734920,Cabinet,1,Furniture,90
+4789031,Coffee Table,1,Furniture,100
+2394850,TV Stand,1,Furniture,80
+8392012,Apples,2,Groceries,2
+5620394,Milk,2,Groceries,4
+7483920,Bread,2,Groceries,3
+9347201,Rice,2,Groceries,1.5
+4385730,Pasta,2,Groceries,2
+1837429,Sugar,2,Groceries,1
+2938475,Flour,2,Groceries,1.25
+7481203,Cereal,2,Groceries,4.5
+1982736,Smartphone,3,Electronics,700
+3294810,Laptop,3,Electronics,1000
+7842013,TV,3,Electronics,500
+4987201,Headphones,3,Electronics,150
+3498207,Camera,3,Electronics,400
+7483920,Monitor,3,Electronics,250
+9283741,Tablet,3,Electronics,300
+9384720,Smartwatch,3,Electronics,200
+4372894,Keyboard,3,Electronics,50
+8293746,Mouse,3,Electronics,30
+9384720,Speaker,3,Electronics,100
+3847294,Jeans,4,Clothing,40
+5982730,T-shirt,4,Clothing,20
+1837429,Dress,4,Clothing,60
+9487203,Skirt,4,Clothing,35
+2948573,Jacket,4,Clothing,80
+7483029,Sweater,4,Clothing,50
+9203847,Shoes,4,Clothing,70
+1839204,Socks,4,Clothing,5
+2948573,Hat,4,Clothing,20
+9483729,Belt,4,Clothing,25
