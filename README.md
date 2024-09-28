@@ -19,7 +19,7 @@ The Supermarket Sales Dashboard aims to provide a comprehensive understanding of
 - **Power BI**: Leveraged for building a fully functional and interactive visualization dashboard.
 - **ChatGPT**: Utilized to solve complex problems faster, improving efficiency and project workflow.
 
-### Problem in Company Decision-Making
+### Problems in Company Decision-Making
 - **How is revenue distributed?**
 - **Is the discount range too low, or can it be adjusted?**
 - **Is the marketing cost for items justified?**
